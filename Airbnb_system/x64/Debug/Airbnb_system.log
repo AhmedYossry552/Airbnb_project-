@@ -1,0 +1,93 @@
+﻿  Valid.cpp
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(194,48): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(194,42): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(194,36): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(195,48): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(195,42): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(195,36): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(222,47): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(222,41): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(222,35): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(223,47): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(223,41): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(223,35): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(224,47): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(224,41): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(224,35): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(225,49): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(225,42): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(225,35): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=__int64
+          ]
+M:\visual_Studuio_project\Airbnb_system\Airbnb_system\Valid.cpp(269,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Airbnb_system.vcxproj -> M:\visual_Studuio_project\Airbnb_system\x64\Debug\Airbnb_system.exe
